@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @AsmaaAlYammahi a senior Aerospace Engineering student from UAE
+- 👀 I’m interested in Photography, Film making and Coding
+- 🌱 I’m currently learning git and working as an intern
+- 📫 Reach me via my e-mail : asmaa.alyammahii@gmail.com
